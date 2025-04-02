@@ -19,7 +19,8 @@
 
 // TODO: 
 
-Hello World!
-I am <your-name> and i am from <city> .
-I am selected to <computer-science OR physical-science> in UOR.
+// Hello World!
+// I am yasith and i am from elawalu gama .
+// I am selected to <computer-science OR physical-science> in UOR.
 
+// i am a dumb idiot
