@@ -20,7 +20,7 @@
 // TODO: 
 
 // Hello World!
-// I am yasith and i am from elawalu gama .
+// I am keshan and i am from gampaha .
 // I am selected to <computer-science OR physical-science> in UOR.
 
-// i am a dumb idiot
+
